@@ -1,6 +1,5 @@
 - 👋 Hi, I’m pankajsarmah
-- 👀 I’m interested in c++,web developement,compatative programming
-- 🌱 I’m currently studing MCA in Bharati Vidyapeeth's Institute ofComputer Applications and Management (BVICAM) New Delhi
+- 👀 I’m interested in c++,web developement,DSA , Java , Python
 - 💞️ I’m looking to collaborate on Open source
 
 
